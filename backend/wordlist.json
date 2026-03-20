@@ -1,0 +1,24 @@
+{
+  "high_risk": [
+    "otp",
+    "password",
+    "verify account",
+    "bank login",
+    "urgent action",
+    "click here",
+    "limited time",
+    "suspend account"
+  ],
+  "medium_risk": [
+    "login",
+    "account",
+    "security alert",
+    "update info",
+    "transaction"
+  ],
+  "low_risk": [
+    "hello",
+    "thanks",
+    "support"
+  ]
+}

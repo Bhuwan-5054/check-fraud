@@ -1,0 +1,5 @@
+{
+  "high_risk": ["otp", "password", "verify account", "bank login"],
+  "medium_risk": ["login", "account", "security"],
+  "low_risk": []
+}
